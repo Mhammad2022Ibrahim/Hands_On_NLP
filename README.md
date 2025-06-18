@@ -1,1 +1,1 @@
-# Hands On NLP Projects using [Hugging Face](Huggingface.co)
+# Hands On NLP Projects using [Hugging Face](https://huggingface.co/)
