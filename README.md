@@ -1,6 +1,6 @@
 # Hands On NLP Projects using [Hugging Face](https://huggingface.co/)
 
-Welcome to my collection of hands-on Natural Language Processing (NLP) projects. Each project in this repository is implemented using Python notebooks, covering a variety of NLP tasks such as text classification, sentiment analysis, question answering, and more. The models trained in these projects are also available on my [Hugging Face profile](https://huggingface.co/Mhammad2022Ibrahim).
+Welcome to my collection of hands-on Natural Language Processing (NLP) projects. Each project in this repository is implemented using Python notebooks, covering a variety of NLP tasks such as text classification, sentiment analysis, question answering, and more. The models trained in these projects are also available on my [Hugging Face profile](https://huggingface.co/Mhammad2023).
 
 ---
 
