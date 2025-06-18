@@ -11,9 +11,9 @@ Each notebook in this repository corresponds to a specific NLP task or project. 
 ---
 
 ### 1. `Token_classification_(TensorFlow).ipynb`
-**Project**: Token Classification on CoNLL-2003 dataset using a fine-tuned BERT model.  
-**Task**: Token classification.  
+**Project**: Named Entity Recognition on the CoNLL-2003 dataset using a fine-tuned BERT model with TensorFlow.  
+**Task**: Token classification (PER, LOC, ORG, MISC).  
 **Model**: [`bert-finetuned-ner`](https://huggingface.co/Mhammad2023/bert-finetuned-ner)  
-**Notebook**: [View Notebook](./Token_classification_(TensorFlow).ipynb)
+**Notebook**: [`Token_classification_(TensorFlow).ipynb`](./Token_classification_(TensorFlow).ipynb)
 
 ---
