@@ -14,6 +14,6 @@ Each notebook in this repository corresponds to a specific NLP task or project. 
 **Project**: Token Classification on CoNLL-2003 dataset using a fine-tuned BERT model.  
 **Task**: Token classification.  
 **Model**: [`bert-finetuned-ner`](https://huggingface.co/Mhammad2023/bert-finetuned-ner)  
-**Notebook**: [View Notebook](./01_Sentiment_Analysis_IMDB_BERT.ipynb)
+**Notebook**: [View Notebook](./Token_classification_(TensorFlow).ipynb)
 
 ---
