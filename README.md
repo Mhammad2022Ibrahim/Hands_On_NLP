@@ -22,7 +22,7 @@ Each notebook in this repository corresponds to a specific NLP task or project. 
 
 **Project**: Fine-tuning `distilbert-base-uncased` on a subset of the IMDb corpus using the Masked Language Modeling (MLM) objective. This project also demonstrates the use of Whole Word Masking (WWM) during training.
 **Task**: Language modeling — predict masked tokens in input text.  
-**Model**: [`distilbert-base-uncased-fineTuned-imdb`](https://huggingface.co/Mhammad2023/distilbert-base-uncased-fineTuned-imdb)
+**Model**: [`distilbert-base-uncased-fineTuned-imdb`](https://huggingface.co/Mhammad2023/distilbert-base-uncased-fineTuned-imdb)   
 **Notebook**: [`Fine_tuning_a_masked_language_model_(TensorFlow).ipynb`](./Fine_tuning_a_masked_language_model_(TensorFlow).ipynb)  
 **Highlight**: Uses `whole_word_masking_data_collator` to selectively mask full words instead of random tokens, which improves generalization.  
 
