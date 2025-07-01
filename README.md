@@ -28,4 +28,14 @@ Each notebook in this repository corresponds to a specific NLP task or project. 
 
 ---
 
+### 3. Translation using MarianMT (PyTorch)
+
+** Notebook**: [`Translation_(PyTorch).ipynb`](./Translation_(PyTorch).ipynb)  
+** Project**: Translation of English to French using a pre-trained MarianMT model and the Hugging Face `MarianMTModel` architecture. The notebook demonstrates tokenization, model inference, and generation using PyTorch.  
+** Task**: Neural Machine Translation (English ➡️ French)  
+** Model**: [`marian-finetuned-kde4-en-to-fr`](https://huggingface.co/Mhammad2023/marian-finetuned-kde4-en-to-fr)
+** Tools**: PyTorch, Hugging Face Transformers, MarianTokenizer, MarianMTModel
+
+---
+
 
