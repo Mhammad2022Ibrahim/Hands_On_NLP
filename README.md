@@ -38,12 +38,12 @@ Each notebook in this repository corresponds to a specific NLP task or project. 
 
 ---
 
-### 4. Question Answering using BERT (PyTorch)
-** Notebook: [`Question_answering_(PyTorch).ipynb`](./Question_answering_(PyTorch).ipynb)
-** Project: Extractive question answering using a `fine-tuned BERT` model (`bert-base-uncased`) on the `SQuAD` dataset. This notebook demonstrates how to tokenize the question-context pairs, perform inference with AutoModelForQuestionAnswering, and extract answer spans from the context.
-** Task: Extractive Question Answering (QA)
-** Model: [`bert-finetuned-squad`](https://huggingface.co/Mhammad2023/bert-finetuned-squad)
-** Tools: PyTorch, Hugging Face Transformers, SQuAD-style question answering
+### 4. Question Answering using BERT (PyTorch) 
+** Notebook: [`Question_answering_(PyTorch).ipynb`](./Question_answering_(PyTorch).ipynb) 
+** Project: Extractive question answering using a `fine-tuned BERT` model (`bert-base-uncased`) on the `SQuAD` dataset. This notebook demonstrates how to tokenize the question-context pairs, perform inference with AutoModelForQuestionAnswering, and extract answer spans from the context. 
+** Task: Extractive Question Answering (QA) 
+** Model: [`bert-finetuned-squad`](https://huggingface.co/Mhammad2023/bert-finetuned-squad) 
+** Tools: PyTorch, Hugging Face Transformers, SQuAD-style question answering 
 
 ---
 
